@@ -70,4 +70,4 @@ README.md         # Project documentation
 - Matplotlib
 
 ## 👨‍💻 Author
-- [Your Name](https://github.com/<your-username>)
+- [Your Name](https://github.com/Aryankumar1407)
